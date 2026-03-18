@@ -1,4 +1,4 @@
-import CatalogBochka from '../../../assets/images/catalog/catalog__bochka.png'
+import CatalogBochka from '../../../assets/images/catalog/catalog__bochka.avif'
 import CatalogView from '../../../assets/images/catalog/catalog__view.svg'
  
 const product = {
@@ -7,7 +7,7 @@ const product = {
   price: "15 000 000 uzs",
   oldPrice: "25 000 000 uzs",
   title: "Suv saqlash uchun bochka 200L",
-  views: 100,
+  views: 100, 
 }
 
 function CatalogCards() {

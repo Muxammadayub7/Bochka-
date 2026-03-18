@@ -12,7 +12,7 @@ import CatalogImg4 from '../../../assets/images/catalog/catalog__img__4.svg'
 import CatalogBochkaMobile from '../../../assets/images/catalog/catalog__bachok__mobile.png'
 import CatalogView from '../../../assets/images/catalog/catalog__view.svg'
 import CatalogFlagMobile from '../../../assets/images/catalog/catalog____flag__mobile.png'
-import CatalogLogoMobile from '../../../assets/images/catalog/catalog__logo__mobile.png'
+import CatalogLogoMobile from '../../../assets/images/catalog/catalog__logo__mobile.avif'
 function Catalog() {
 	return (
 		<section className='catalog'>

@@ -37,7 +37,7 @@ function Quality() {
 							<button className='hero__btn'>Buyurtma berish</button>
 						</div>
 						<img src={QualityImg} alt='QualityImg' className='quality__img' />
-            <img src={QualityImgMobile} alt="" className='quality__img__2' />
+            <img src={QualityImgMobile} alt="" className='quality__img__2' fetchpriority="high" />
 						<img
 							src={QualityImg2}
 							alt='QualityImg'
@@ -59,7 +59,7 @@ function Quality() {
 							<button className='hero__btn'>Buyurtma berish</button>
 						</div>
 						<img src={QualityImg} alt='QualityImg' className='quality__img' />
-            <img src={QualityImgMobile} alt="" className='quality__img__2' />
+            <img src={QualityImgMobile} alt="" className='quality__img__2' fetchpriority="high" />
 						<img
 							src={QualityImg2}
 							alt='QualityImg'
@@ -81,7 +81,7 @@ function Quality() {
 							<button className='hero__btn'>Buyurtma berish</button>
 						</div>
 						<img src={QualityImg} alt='QualityImg' className='quality__img' />
-            <img src={QualityImgMobile} alt="" className='quality__img__2' />
+            <img src={QualityImgMobile} alt="" className='quality__img__2' fetchpriority="high" />
 						<img
 							src={QualityImg2}
 							alt='QualityImg'
