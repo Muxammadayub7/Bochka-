@@ -12,12 +12,6 @@ import CatalogImg4 from '../../../assets/images/catalog/catalog__img__4.svg'
 import CatalogBochkaMobile from '../../../assets/images/catalog/catalog__bachok__mobile.png'
 import CatalogView from '../../../assets/images/catalog/catalog__view.svg'
 function Catalog() {
-	// const [activeTab, setActiveTab] = useState(0);
-
-	// const toggle = (index) => {
-	//   setActiveTab(activeTab === index ? null : index);
-	// };
-
 	return (
 		<section className='catalog'>
 			<div className='catalog__container container'>
