@@ -6,6 +6,7 @@ import {
 	Footer,
 	Header,
 	Hero,
+	Navbar,
 	Quality,
 } from './components'
 
@@ -18,6 +19,7 @@ function App() {
 			<Catalog />
 			<Customer />
 			<Footer />
+			<Navbar />
 		</div>
 	)
 }
