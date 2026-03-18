@@ -9,7 +9,7 @@ import 'swiper/css/navigation';
 import '../../../assets/style/Quality.css'
 import QualityImg from '../../../assets/images/quality/quality__img__1.png'
 import QualityImg2 from '../../../assets/images/quality/quality__img__2.png'
-import QualityImgMobile from '../../../assets/images/quality/quality__img__1__mobile.png'
+import QualityImgMobile from '../../../assets/images/quality/quality__img__1__mobile.avif'
 import QualityImgMobile2 from '../../../assets/images/quality/quality__img__2__mobile.png'
 
 function Quality() {
