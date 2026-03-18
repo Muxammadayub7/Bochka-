@@ -1,3 +1,6 @@
 export {default as Header } from './layout/Header'
-export {default as Hero } from './sections/Hero'
-export {default as Quality } from './sections/Quality'
+export {default as Hero } from './sections/Hero/Hero'
+export {default as Quality } from './sections/Quality/Quality'
+export {default as Catalog } from './sections/Catalog/Catalog'
+export {default as CatalogCard } from './sections/CatalogCards/CatalogCards'
+export {default as CatalogCardActive } from './sections/CatalogCardsActive/CatalogCardsActive'

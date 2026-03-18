@@ -6,11 +6,11 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 import 'swiper/css/navigation'; 
 
-import '../../assets/style/Quality.css'
-import QualityImg from '../../assets/images/quality/quality__img__1.png'
-import QualityImg2 from '../../assets/images/quality/quality__img__2.png'
-import QualityImgMobile from '../../assets/images/quality/quality__img__1__mobile.png'
-import QualityImgMobile2 from '../../assets/images/quality/quality__img__2__mobile.png'
+import '../../../assets/style/Quality.css'
+import QualityImg from '../../../assets/images/quality/quality__img__1.png'
+import QualityImg2 from '../../../assets/images/quality/quality__img__2.png'
+import QualityImgMobile from '../../../assets/images/quality/quality__img__1__mobile.png'
+import QualityImgMobile2 from '../../../assets/images/quality/quality__img__2__mobile.png'
 
 function Quality() {
 	return (
@@ -21,7 +21,7 @@ function Quality() {
           spaceBetween={30}
           slidesPerView={1}
           pagination={{ clickable: true }}
-          autoplay={{ delay: 5000 }}
+          autoplay={{ delay: 3000 }}
           className='mySwiper'
         >
 				<SwiperSlide>

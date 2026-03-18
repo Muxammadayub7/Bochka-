@@ -1,6 +1,6 @@
-import '../../assets/style/Hero.css'
-import HeroLogo from '../../assets/images/hero/hero__logo.svg'
-import HeroSearch from '../../assets/images/hero/hero__search.svg'
+import '../../../assets/style/Hero.css'
+import HeroLogo from '../../../assets/images/hero/hero__logo.svg'
+import HeroSearch from '../../../assets/images/hero/hero__search.svg'
 function Hero() {
 	return (
 		// hero start

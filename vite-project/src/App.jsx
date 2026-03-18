@@ -1,5 +1,5 @@
 import './App.css'
-import { Header, Hero, Quality } from './components'
+import { Catalog, CatalogCard, Header, Hero, Quality } from './components'
 
 function App() {
   return (
@@ -7,6 +7,7 @@ function App() {
       <Header />
       <Hero />
       <Quality />
+      <Catalog />
     </div>
   )
 }
